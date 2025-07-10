@@ -6,6 +6,8 @@ return {
   { "rebelot/kanagawa.nvim" },
   { "oxfist/night-owl.nvim" },
   { "shaunsingh/moonlight.nvim" },
+  { "rose-pine/neovim" },
+  { "scottmckendry/cyberdream.nvim" },
   {
     "LazyVim/LazyVim",
     opts = {
