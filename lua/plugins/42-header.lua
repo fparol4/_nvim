@@ -1,8 +1,8 @@
 return {
   "Diogo-ss/42-header.nvim",
-  cmd = { "Stdheader" },
+  cmd = { "Header" },
   opts = {
-    default_map = true, -- Default mapping <F1> in normal mode.
+    default_map = true, 
     auto_update = true, -- Update header when saving.
     user = "fparola", -- Your user.
     mail = "fparola@gmail.com", -- Your mail.

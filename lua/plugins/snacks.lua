@@ -1,5 +1,6 @@
-return { "folke/snacks.nvim", opts = { 
+return { "folke/snacks.nvim", opts = {
   picker = {
     hidden = true,
   },
-  dashboard = { enabled = false } } }
+  dashboard = { enabled = false },
+} }
